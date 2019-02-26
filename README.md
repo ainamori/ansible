@@ -8,6 +8,6 @@
 # cd /var/tmp
 # git clone https://github.com/ainamori/ansible-docker.git
 # cd ansible
-# ansible-playbook stub_setup.yml -v
+# ansible-playbook setup.yml -v
 ```
 
